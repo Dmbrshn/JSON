@@ -22,7 +22,7 @@
     vim new.json , i , набираем нужный текст, :wq  
  8.  Отправить изменения на внешний репозиторий:
     
-    git add new.json
+    git add new.json && git commit -m "Edit file" && git push
  9.  Создать файл preferences.json:
     
     touch preferences.json
