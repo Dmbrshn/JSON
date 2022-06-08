@@ -34,7 +34,7 @@
     touch skills.json && vim skills.json , i , набираем нужный текст, :wq 
  12. Отправить сразу 2 файла на внешний репозиторий:
     
-    git add . && git commit -m "preferences and skills"
+    git add . && git commit -m "preferences and skills" && git push
  13. На веб интерфейсе создать файл bug_report.json:
     
     В Репозитории "JSON" нажать "Add file" , выбрать "Create new file" , в поле "Name" написать "bug_report.json" 
