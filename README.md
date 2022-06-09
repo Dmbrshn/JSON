@@ -7,7 +7,7 @@
     git clone https://github.com/Dmbrshn/JSON.git
  3.  Внутри локального JSON создать файл "new.json": 
    
-    touch new.json
+    cd JSON && touch new.json
  4.  Добавить файл под гит: 
     
     git add new.json
